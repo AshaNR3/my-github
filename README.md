@@ -3,4 +3,6 @@ This is a sample display
 
 Added this new line
 
-I am adding new line here
+Hi, I am Girish
+I love Asha
+I love Eshika
